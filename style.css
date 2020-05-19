@@ -1,5 +1,6 @@
 body {
     background-color: red;
+
     margin: 15px;
 }
 
@@ -13,4 +14,13 @@ h2 {
 
 p {
     font-size: 20px;
+
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    color: blue;
 }
